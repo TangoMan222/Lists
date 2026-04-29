@@ -1,41 +1,41 @@
-[KNOWN_NAME_1]
-[KNOWN_NAME_2]
-[ALIAS_1]
-[ALIAS_2]
-[NICKNAME_1]
-[BUSINESS_NAME]
-[GROUP_NAME]
-[ORGANIZATION_NAME]
-[EMAIL_ADDRESS]
-[PHONE_NUMBER]
-[USERNAME]
-[HANDLE]
-@username
-snap
-telegram
-signal
-whatsapp
-discord
-session
-proton
-tutanota
-gmail
-icloud
-burner
-fake name
-new number
-other phone
-second phone
-backup phone
-work phone
-real name
-legal name
-ID
-driver license
-passport
-SSN
-social
-DOB
-birthdate
-address
+[KNOWN_NAME_1],
+[KNOWN_NAME_2],
+[ALIAS_1],
+[ALIAS_2],
+[NICKNAME_1],
+[BUSINESS_NAME],
+[GROUP_NAME],
+[ORGANIZATION_NAME],
+[EMAIL_ADDRESS],
+[PHONE_NUMBER],
+[USERNAME],
+[HANDLE],
+@username,
+snap,
+telegram,
+signal,
+whatsapp,
+discord,
+session,
+proton,
+tutanota,
+gmail,
+icloud,
+burner,
+fake name,
+new number,
+other phone,
+second phone,
+backup phone,
+work phone,
+real name,
+legal name,
+ID,
+driver license,
+passport,
+SSN,
+social,
+DOB,
+birthdate,
+address,
 home address
